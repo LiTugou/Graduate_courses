@@ -11,8 +11,12 @@
             "id": "cf94eacd8b06c260",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +172,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d6b0ca18a681be76",
+  "active": "cf94eacd8b06c260",
   "lastOpenFiles": [
+    "文本挖掘/README.md",
+    "README.md",
     "强化学习/强化学习.md",
     "强化学习/README.md",
-    "README.md",
-    "文本挖掘/README.md",
     "强化学习/案例/动态规划.md",
     "文本挖掘/images/LSA.png",
     "统计计算/MCMC.md",
