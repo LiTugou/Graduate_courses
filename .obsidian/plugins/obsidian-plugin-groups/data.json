@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pg",
+      "name": "必开",
+      "plugins": [
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "obsidian-excalidraw-plugin",
+          "name": "Excalidraw"
+        },
+        {
+          "id": "oz-image-plugin",
+          "name": "Ozan's Image in Editor Plugin"
+        },
+        {
+          "id": "obsidian-pandoc",
+          "name": "Pandoc Plugin"
+        },
+        {
+          "id": "obsidian-mindmap-nextgen",
+          "name": "Mindmap NextGen"
+        },
+        {
+          "id": "obsidian-git",
+          "name": "Obsidian Git"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

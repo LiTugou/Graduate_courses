@@ -1,0 +1,7 @@
+{
+  "indentSize": "1.2em",
+  "commentDelimiter": "//",
+  "lineNumber": true,
+  "lineNumberPunc": ":",
+  "noEnd": false
+}
