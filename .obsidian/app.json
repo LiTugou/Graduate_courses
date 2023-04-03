@@ -9,5 +9,5 @@
   "showLineNumber": true,
   "attachmentFolderPath": "appendix",
   "strictLineBreaks": false,
-  "vimMode": true
+  "vimMode": false
 }
