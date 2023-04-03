@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "f138094d12973fb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9efa97142f8f49ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19927ef812234701",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a242fc01e49b5da7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "179cb85342a01640",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b4a09d3a854f5919",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "06eed153a001566e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5d1b4abf70a521b3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "394c230485f1ccab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43f95da804dadbc5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7507d8e82ef34b67",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c6020d98ac2a4e53",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d9d2e54c7a0bd7c8",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "315228907ef1b6e4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "0af609467ba3f7f7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "19927ef812234701",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-04-03 10.11.09.excalidraw.md",
+    "README.md",
+    "未命名.canvas",
+    "强化学习/强化学习.md",
+    "强化学习/README.md",
+    "文本挖掘/README.md",
+    "Excalidraw/Drawing 2023-04-03 10.05.28.excalidraw.md",
+    "Excalidraw",
+    "文本挖掘/main.ipynb",
+    "文本挖掘",
+    "强化学习/bierende.ipynb",
+    "强化学习/DP.ipynb",
+    "强化学习/jack.ipynb",
+    "强化学习/jack_daidai.ipynb",
+    "强化学习",
+    "强化学习/案例/动态规划.md",
+    "强化学习/案例",
+    "文本挖掘/images/LSA.png",
+    "文本挖掘/images"
+  ]
+}
