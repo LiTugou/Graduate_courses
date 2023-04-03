@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "285f7aa5af3a83a9",
+        "id": "23ac45a85a4c23f5",
         "type": "tabs",
         "children": [
           {
-            "id": "871fe2be25befcd5",
+            "id": "225660629a954aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -104,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +172,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "871fe2be25befcd5",
+  "active": "d6b0ca18a681be76",
   "lastOpenFiles": [
+    "README.md",
     "强化学习/README.md",
     "强化学习/案例/动态规划.md",
-    "README.md",
     "文本挖掘/README.md",
     "强化学习/强化学习.md",
     "文本挖掘/images/LSA.png",
