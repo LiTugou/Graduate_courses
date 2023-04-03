@@ -9,5 +9,7 @@
   "pseudocode-in-obs",
   "obsidian-hover-editor",
   "obsidian-style-settings",
-  "calendar"
+  "calendar",
+  "obsidian-linter",
+  "obsidian-hider"
 ]
