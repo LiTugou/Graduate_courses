@@ -11,8 +11,12 @@
             "id": "19927ef812234701",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       }
     ],
@@ -150,8 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19927ef812234701",
+  "active": "179cb85342a01640",
   "lastOpenFiles": [
+    "/文本挖掘/README.md",
+    "/强化学习/案例/动态规划.md",
+    "/强化学习/README.md",
     "Excalidraw/Drawing 2023-04-03 10.11.09.excalidraw.md",
     "README.md",
     "未命名.canvas",
