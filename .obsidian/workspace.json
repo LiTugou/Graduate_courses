@@ -11,8 +11,12 @@
             "id": "225660629a954aeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文本挖掘/README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本挖掘/README.md"
+              }
             }
           }
         ],
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本挖掘/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本挖掘/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 505.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +182,11 @@
   },
   "active": "d6b0ca18a681be76",
   "lastOpenFiles": [
-    "README.md",
+    "强化学习/强化学习.md",
     "强化学习/README.md",
+    "README.md",
     "强化学习/案例/动态规划.md",
     "文本挖掘/README.md",
-    "强化学习/强化学习.md",
     "文本挖掘/images/LSA.png",
     "统计计算/MCMC.md",
     "强化学习/杰克租车.md",
