@@ -104,7 +104,7 @@
     "Ordered List Style": {
       "Makes sure that ordered lists follow the style specified. Note that 2 spaces or 1 tab is considered to be an indentation level.": false,
       "Number Style": "ascending",
-      "Ordered List Indicator End Style": "."
+      "Ordered List Indicator End Style": ")"
     },
     "Proper Ellipsis": {
       "Replaces three consecutive dots with an ellipsis.": false

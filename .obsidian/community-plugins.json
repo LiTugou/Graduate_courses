@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "drawio-obsidian",
   "obsidian-mindmap-nextgen",
   "obsidian-git",
   "folder-note-plugin",
@@ -10,5 +9,15 @@
   "obsidian-hover-editor",
   "obsidian-style-settings",
   "calendar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-kanban",
+  "various-complements",
+  "privacy-glasses",
+  "copy-as-html",
+  "obsidian-copy-block-link",
+  "execute-code",
+  "meld-encrypt",
+  "obsidian-enhancing-export",
+  "obsidian-memos",
+  "obsidian-timelines"
 ]

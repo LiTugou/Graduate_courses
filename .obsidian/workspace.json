@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b13d2ea8e1b0208",
+        "id": "5d989a54a59f9ea3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5eea3e5a34fed67",
+            "id": "fa2b2c4ecf4d4027",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "right": {
     "id": "103a978d7231e4c5",
@@ -89,6 +89,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbdc0100fe4120c0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           },
@@ -117,14 +125,6 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "dbdc0100fe4120c0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,46 +169,57 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "f5eea3e5a34fed67",
+  "active": "d6b0ca18a681be76",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-03 10.11.09.excalidraw.md",
     "Excalidraw/Drawing 2023-04-03 18.30.14.excalidraw.md",
-    "文本挖掘/问题.md",
-    "Excalidraw/Drawing 2023-04-03 10.05.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-03 10.11.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-03 21.08.59.excalidraw.md",
+    "README.md",
+    "Diary/2023-04-05.md",
+    "Diary/2023-04-04.md",
+    "Diary/2023-04-03.md",
+    "Diary/2023-02-26.md",
     "文本挖掘/README.md",
-    "数据可视化/README.md",
+    "文本挖掘/问题.md",
+    "强化学习/README.md",
+    "强化学习/案例/动态规划.md",
+    "强化学习/强化学习.md",
+    "Diary/2023-03-28.md",
+    "Diary/2023-03-31.md",
+    "Diary/2023-03-27.md",
+    "Diary/2023-03-26.md",
+    "Diary/2023-03-12.md",
+    "Diary/2023-03-17.md",
+    "Diary/2023-03-24.md",
+    "Diary/2023-03-18.md",
+    "Diary/2023-03-15.md",
+    "Diary/2023-03-08.md",
+    "Diary/2023-03-01.md",
+    "Diary/2023-02-28.md",
+    "Diary/2023-02-25.md",
+    "Untitled 20230405 013153.encrypted",
+    "Untitled.table",
+    "Diary",
+    "数据仓库",
+    "文本挖掘/images/LSA.png",
     "数据可视化",
     "Excalidraw",
-    "强化学习/强化学习.md",
-    "强化学习/README.md",
-    "README.md",
-    "强化学习/案例/动态规划.md",
-    "文本挖掘/images/LSA.png",
-    "统计计算/MCMC.md",
-    "强化学习/杰克租车.md",
-    "python嵌入代码.md",
     "Untitled Diagram.svg",
-    "统计计算/统计计算.md",
-    "Diary/2023-04-02.md",
     "Diary/Untitled Diagram.svg",
-    "2023-04-02.md",
-    "Diary",
-    "2023-04-21.md",
-    "2023-04-01.md",
-    "Drawing 2023-04-01 20.14.27.excalidraw.md",
     "appendix",
-    "2023-03-26 hbjg.md",
-    "pininfo.md",
-    "Excalidraw/Drawing 2023-04-01 19.32.51.excalidraw.md",
     "Diagram.svg",
     "Diagram.svg.xml",
     "未命名.canvas",
     "Untitled Diagram 1.svg",
     "统计计算",
-    "2023-03-28.md",
     "强化学习",
     "未命名 1.canvas"
   ]
