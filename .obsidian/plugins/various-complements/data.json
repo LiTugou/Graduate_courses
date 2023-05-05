@@ -78,6 +78,370 @@
           "lastUpdated": 1680694513642
         }
       }
+    },
+    "算法流程：": {
+      "算法流程：": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680751571063
+        }
+      }
+    },
+    "Friedman-Tukey指标和最大化峰度指标较好，Friedman也可以": {
+      "Friedman-Tukey指标和最大化峰度指标较好，Friedman也可以": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681113020804
+        }
+      }
+    },
+    "######": {
+      "######": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681113601614
+        }
+      }
+    },
+    "为标准正态分布函数。": {
+      "为标准正态分布函数。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681113831052
+        }
+      }
+    },
+    "上下文特征": {
+      "上下文特征": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681196743982
+        }
+      }
+    },
+    "基于用户的协同推荐": {
+      "基于用户的协同推荐": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681204368399
+        }
+      }
+    },
+    "依据行为记录挖掘用户偏好特征，构建用户画像；然后根据评分数据集进": {
+      "依据行为记录挖掘用户偏好特征，构建用户画像；然后根据评分数据集进": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681204466081
+        }
+      }
+    },
+    "Transform": {
+      "Transform": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681295818294
+        }
+      }
+    },
+    "1-\\lambda": {
+      "1-\\lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681298176113
+        }
+      }
+    },
+    "Cauchy-Schwartz": {
+      "Cauchy-Schwartz": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681298272254
+        }
+      }
+    },
+    "\\theta": {
+      "\\theta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681300808971
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681881987395
+        }
+      }
+    },
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1681881992937
+        }
+      }
+    },
+    "\\theta^{": {
+      "\\theta^{": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681432897876
+        }
+      }
+    },
+    "\\underset{\\theta}{argmax}Q": {
+      "\\underset{\\theta}{argmax}Q": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681433029819
+        }
+      }
+    },
+    "#####": {
+      "#####": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681726824114
+        }
+      }
+    },
+    "2023-02-27": {
+      "2023-02-27": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681810553439
+        }
+      }
+    },
+    "XGBoost设定一个默认分支来处理缺失数据": {
+      "XGBoost设定一个默认分支来处理缺失数据": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681892190674
+        }
+      }
+    },
+    "对每个采样集训练出一个基学习器，再将这些基学习器进行结合": {
+      "对每个采样集训练出一个基学习器，再将这些基学习器进行结合": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681919184480
+        }
+      }
+    },
+    "将这些基学习器进行结合": {
+      "将这些基学习器进行结合": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681919193943
+        }
+      }
+    },
+    "从初始数据集训练出T个初级学习器，然后“生成”一个新数据集用于训练次级学习器。在这个新数据集中，初级学习器的输出被当作样例输入特征，而初始样本的标记仍被当作样例标记。": {
+      "从初始数据集训练出T个初级学习器，然后“生成”一个新数据集用于训练次级学习器。在这个新数据集中，初级学习器的输出被当作样例输入特征，而初始样本的标记仍被当作样例标记。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681919924250
+        }
+      }
+    },
+    "决策树与提升方法": {
+      "决策树与提升方法": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681920360409
+        }
+      }
+    },
+    "决策树的每个结点，先从该结点的属性集合中随机选择一个包含k个属性的子集，然后再从这个子集中选择一个最优属性用于划分，这里的参数k控制了随机性的引入程度。一般情况下，推荐值": {
+      "决策树的每个结点，先从该结点的属性集合中随机选择一个包含k个属性的子集，然后再从这个子集中选择一个最优属性用于划分，这里的参数k控制了随机性的引入程度。一般情况下，推荐值": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681920362192
+        }
+      }
+    },
+    "Attention机制": {
+      "Attention机制": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682009354069
+        }
+      }
+    },
+    "MultiHeadAttention": {
+      "MultiHeadAttention": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682042506018
+        }
+      }
+    },
+    "Transformer": {
+      "Transformer": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682067836654
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682067870174
+        }
+      }
+    },
+    "HMM（隐马尔科夫）": {
+      "HMM（隐马尔科夫）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682068882447
+        }
+      }
+    },
+    "训练效率低": {
+      "训练效率低": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682068898347
+        }
+      }
+    },
+    "基于热点召回：基于热点事件的召回，通过对热点事件相关的内容进行计算，同时匹配可能感兴趣的用户，进而进行推荐展示": {
+      "基于热点召回：基于热点事件的召回，通过对热点事件相关的内容进行计算，同时匹配可能感兴趣的用户，进而进行推荐展示": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682071810544
+        }
+      }
+    },
+    "主要分为基于用户的协同召回和基于内容的协同召回两种方法，以基于用户的协同召回为例进行说明：": {
+      "主要分为基于用户的协同召回和基于内容的协同召回两种方法，以基于用户的协同召回为例进行说明：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682071837912
+        }
+      }
+    },
+    "04-23": {
+      "04-23": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682219240006
+        }
+      }
+    },
+    "均方根误差": {
+      "均方根误差": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682220700550
+        }
+      }
+    },
+    "平均绝对误差": {
+      "平均绝对误差": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682220703282
+        }
+      }
+    },
+    "负对数似然函数值": {
+      "负对数似然函数值": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682220705721
+        }
+      }
+    },
+    "多分类错误率": {
+      "多分类错误率": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682220712427
+        }
+      }
+    },
+    "多分类logloss损失函数": {
+      "多分类logloss损失函数": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682220714344
+        }
+      }
+    },
+    "。典型的场景包括，新用户没有几条浏览行为，如何准确推荐用户感兴趣的内容；一些商品非常小众，用户反馈很少，如何对这些商品进行推荐等等。长尾在一个成熟的系统中往往服从二八定律，即20%的头部实体贡献了80%的数据，而剩余80%的实体只有20%的数据，实际场景中甚至比二八还要长尾。": {
+      "。典型的场景包括，新用户没有几条浏览行为，如何准确推荐用户感兴趣的内容；一些商品非常小众，用户反馈很少，如何对这些商品进行推荐等等。长尾在一个成熟的系统中往往服从二八定律，即20%的头部实体贡献了80%的数据，而剩余80%的实体只有20%的数据，实际场景中甚至比二八还要长尾。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682305652650
+        }
+      }
+    },
+    "Wide&deep": {
+      "Wide&deep": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682306793001
+        }
+      }
+    },
+    "DeepFM": {
+      "DeepFM": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1682578928571
+        }
+      }
+    },
+    "因为one-hot导致变量很多，二阶项会非常多常规求解困难，所以FM就出来了（有点像因子模型，由潜在的因子组成）": {
+      "因为one-hot导致变量很多，二阶项会非常多常规求解困难，所以FM就出来了（有点像因子模型，由潜在的因子组成）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682487367947
+        }
+      }
+    },
+    "Play因为数据长尾分布，对于一些小众的app在历史数据中极少出现，其对应的Embedding学习不够充分，需要通过Wide部分Memorization来保证最终预测的精度。": {
+      "Play因为数据长尾分布，对于一些小众的app在历史数据中极少出现，其对应的Embedding学习不够充分，需要通过Wide部分Memorization来保证最终预测的精度。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682566095519
+        }
+      }
+    },
+    "Drawing 2023-04-10 19.45.32.excalidraw": {
+      "Drawing 2023-04-10 19.45.32.excalidraw": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682566448070
+        }
+      }
+    },
+    "输出：按退出顺序输出": {
+      "输出：按退出顺序输出": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682742741224
+        }
+      }
+    },
+    "Logistic回归": {
+      "Logistic回归": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683116996352
+        }
+      }
+    },
+    "难以确定合适的离散化方式。如：多少个分桶？桶的边界如何确定？": {
+      "难以确定合适的离散化方式。如：多少个分桶？桶的边界如何确定？": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683258680328
+        }
+      }
     }
   }
 }

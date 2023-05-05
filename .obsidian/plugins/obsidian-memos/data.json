@@ -15,7 +15,7 @@
   "UseButtonToShowEditor": false,
   "FocusOnEditor": true,
   "OpenDailyMemosWithMemos": true,
-  "HideDoneTasks": false,
+  "HideDoneTasks": true,
   "ShowTaskLabel": true,
   "OpenMemosAutomatically": false,
   "ShowTime": true,

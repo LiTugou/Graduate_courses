@@ -25,7 +25,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "mobile",
   "allowPinchZoom": true,
-  "allowWheelZoom": false,
+  "allowWheelZoom": true,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,

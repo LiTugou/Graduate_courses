@@ -47,7 +47,7 @@ $$
 ### 主题模型
 #### LSA(潜在语义分析)
 
-![](./images/LSA.png)  
+![](./assets/LSA.png)  
 
 $$X\approx U_k\Sigma_k V_k^T$$
 
@@ -135,3 +135,5 @@ N=0.4 (5)
 $AUC=\frac{2+1}{2\times 3}$  
 (1)>(4),(1)>(5)  
 (2)>(4)
+## faseg
+偏文本用tanh激活
